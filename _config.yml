@@ -5,6 +5,7 @@ plugins:          [jekyll-paginate, jekyll-gist]
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Hyde
